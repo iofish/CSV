@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1490151274 source:e:\2017-3\ctp\codes\csvtest\csv.cpp
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<errno.h>
+	"csv.h"
+
+1490153987 e:\2017-3\ctp\codes\csvtest\csv.h
+	<stdio.h>
+
+1490153470 source:e:\2017-3\ctp\codes\csvtest\main.cpp
+	<stdio.h>
+	"csv.h"
+	<fstream>
+
